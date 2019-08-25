@@ -1,0 +1,4 @@
+.idea/*
+*.class
+multi-module-app/target/*
+multi-module-model/target/*
